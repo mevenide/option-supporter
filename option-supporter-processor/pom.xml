@@ -4,7 +4,7 @@
   <parent>
     <groupId>org.mevenide.optionsupporter</groupId>
     <artifactId>option-supporter-parent</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1-SNAPSHOT</version>
   </parent>
 
   <artifactId>option-supporter-processor</artifactId>
